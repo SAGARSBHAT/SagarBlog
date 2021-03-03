@@ -155,3 +155,13 @@ body {
     position: relative;
   }
 }
+@media screen and (max-width: 500px) {
+  .exp4 {
+    top: -300px;
+    position: relative;
+  }
+  .exp3a {
+    top: 300px;
+    position: relative;
+  }
+}
