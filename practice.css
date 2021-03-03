@@ -1,0 +1,157 @@
+.email {
+  color: black;
+}
+
+a:hover{
+   font-size: 150%;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.phone {
+  color: black;
+}
+.navnav {
+  background-color: lightblue;
+}
+
+.navig {
+  margin: 10px;
+  text-align: center;
+}
+.navig1 {
+  box-shadow: 0 3px 6px whitesmoke;
+}
+
+.img {
+  background-image: url("p.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px;
+}
+.img1 {
+  margin: 20px;
+  border-color: black;
+  border-radius: 5%;
+  border-width: 100px;
+  box-shadow: 0 3px 6px whitesmoke;
+}
+.skil {
+  font-size: large;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.bad {
+  color: whitesmoke;
+  margin: 30px;
+}
+.navi {
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 35px;
+  margin: 10px;
+  box-shadow: 0 3px 6px lightskyblue;
+}
+.skills {
+  background-color: white;
+  margin: 50px;
+}
+.exp {
+  margin: 50px;
+}
+.exp1 {
+  text-align: center;
+  margin: 50px;
+}
+
+.exp2 {
+  color: red;
+  font-weight: bolder;
+}
+.exp3 {
+  text-align: left;
+  margin: 10px;
+  color: darkblue;
+  font-size: 25px;
+}
+.tit {
+  margin: 30px;
+}
+.tit1 {
+  margin: 10px;
+}
+.tit2 {
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+.tit3 {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+.car {
+  background-image: url("trophy.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.car1 {
+  color: white;
+  font-size: 30px;
+  margin: 30px;
+}
+
+.cont {
+  color: black;
+  margin: 30px;
+}
+
+.img2a{
+  height: 400px;
+  width: 500px;
+}
+
+.cont1{
+  font-size: x-large;
+  text-align: center;
+}
+.cont2{
+  font-size: 50px;
+  text-align: center;
+  margin: 50px;
+}
+.cont3{
+  margin: 30px;
+  
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  .skills1 {
+    margin: 30px;
+  }
+
+}
+
+@media screen and (max-width:1000px){
+    .img2a{
+  height: 300px;
+  width: 300px;
+}
+}
+
+@media screen and (max-width: 760px) {
+  .exp4 {
+    top: -250px;
+    position: relative;
+  }
+  .exp3a {
+    top: 300px;
+    position: relative;
+  }
+}
